@@ -1,24 +1,26 @@
 
              Introduction to Flutter
 Objective:
+
+
 Gain an understanding of Flutter, its benefits, and get started with setting up the
-Flutter SDK. Learn to create simple UI elements using Flutter widgets.
-Outcomes
-By the end of this session, learners should be able to:
-● Explain what Flutter is and its benefits for cross-platform development.
-● Set up the Flutter SDK and development environment.
-● Build simple stateless widgets to create a basic UI.
-Duration: 105 minutes
-Lesson Outline:
+Flutter SDK.
+
+Learn to create simple UI elements using Flutter widgets.
+
+
 1. What is Flutter? (20 minutes)
 Introduction to Flutter:
 ● What Flutter is: A framework for building natively compiled applications for
 mobile, web, and desktop from a single codebase.
+
 ● How it works: The architecture of Flutter — from widgets to the rendering
 engine.
-●
+
+
 ● Real-Time Examples: Show how Flutter helps in rapid prototyping and
 beautiful UIs.
+
 Benefits of Flutter:
 ● Cross-Platform Development: One codebase for Android, iOS, and even web
 applications.
@@ -27,7 +29,7 @@ applications.
 Real-World Applications:
 ● Discuss popular apps like Google Ads, Reflectly, Alibaba, etc., that are built
 using Flutter.
-2. Setting Up Flutter (30 minutes)
+3. Setting Up Flutter (30 minutes)
 Installing Flutter SDK:
 ● Walk learners through downloading and installing the Flutter SDK from the
 official website.
@@ -42,7 +44,7 @@ Verification:
 Hands-on Activity:
 ● Guide learners through installing the Flutter SDK and setting up the IDE.
 ● Ensure learners can verify the installation successfully using flutter doctor.
-3. Getting Started with Flutter Widgets (45
+4. Getting Started with Flutter Widgets (45
 minutes)
 Understanding Widgets:
 ● What are Widgets? Everything in Flutter is a widget. UI elements are all
